@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{zhoufeiyan}
+周飞燕, 金林鹏, and 董军.
+\newblock 卷积神经网络研究综述.
+\newblock {\em 计算机学报}, (6).
+
+\bibitem{Harrington2013}
+Peter Harrington.
+\newblock {\em 机器学习实战}.
+\newblock 2013.
+
+\bibitem{long2018textsnake}
+Shangbang Long, Jiaqiang Ruan, Wenjie Zhang, Xin He, Wenhao Wu, and Cong Yao.
+\newblock Textsnake: A flexible representation for detecting text of arbitrary
+  shapes.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 20--36, 2018.
+
+\end{thebibliography}
